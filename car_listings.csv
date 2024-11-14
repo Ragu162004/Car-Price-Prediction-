@@ -1,0 +1,1001 @@
+,name,company,year,Price,kms_driven,fuel_type
+,Kia Seltos,Renault,2008,95000,75000,Diesel
+,Honda Jazz,Honda,2009,1165000,72000,Diesel
+,MG Hector,Toyota,2021,795000,148000,Petrol
+,Mahindra XUV300,Jeep,2018,470000,87000,Petrol
+,Maruti Suzuki Baleno,Renault,2004,630000,41000,Petrol
+,Hyundai Tucson,MG,2003,2095000,107000,Diesel
+,Tata Nexon,Jeep,2001,1555000,115000,Petrol
+,Skoda Octavia,Ford,2000,1230000,31000,Diesel
+,Jeep Compass,Kia,2005,415000,83000,Diesel
+,Renault Triber,Ford,2022,2090000,105000,Petrol
+,Tata Hexa,Skoda,2016,1320000,100000,Diesel
+,Honda Jazz,Hyundai,2001,1635000,104000,Petrol
+,Mahindra XUV300,Jeep,2017,1450000,63000,Diesel
+,Volkswagen Tiguan,Maruti,2002,540000,28000,Petrol
+,Toyota Yaris,Ford,2006,2265000,10000,Petrol
+,Skoda Octavia,Volkswagen,2009,1825000,24000,Diesel
+,Tata Hexa,Kia,2000,285000,95000,Diesel
+,Jeep Compass,Volkswagen,2016,1330000,123000,Diesel
+,Tata Hexa,Nissan,2006,950000,38000,Petrol
+,Mahindra XUV300,Hyundai,2018,1285000,101000,Petrol
+,Kia Seltos,Mahindra,2016,1475000,115000,Diesel
+,Honda Civic,Kia,2006,1545000,52000,Diesel
+,Toyota Corolla,Honda,2016,2450000,30000,Diesel
+,Nissan X-Trail,Jeep,2016,1310000,53000,Diesel
+,MG Hector,Jeep,2009,285000,82000,Diesel
+,Hyundai Verna,Hyundai,2013,75000,67000,Diesel
+,Jeep Compass,Maruti,2014,135000,54000,Petrol
+,Nissan X-Trail,Honda,2005,1610000,42000,Petrol
+,Volkswagen Jetta,Kia,2003,1530000,55000,Petrol
+,Hyundai Tucson,MG,2006,755000,49000,Diesel
+,Hyundai Verna,Skoda,2007,2425000,129000,Petrol
+,Toyota Yaris,Skoda,2010,1080000,83000,Petrol
+,Jeep Compass,MG,2007,2025000,4000,Diesel
+,Hyundai Verna,Hyundai,2007,220000,90000,Diesel
+,Hyundai Venue,Ford,2022,1800000,145000,Diesel
+,Mahindra Thar,Honda,2011,760000,38000,Diesel
+,Ford Figo Aspire,Kia,2004,2215000,127000,Petrol
+,Honda Civic,Toyota,2022,720000,100000,Petrol
+,Renault Triber,Ford,2000,635000,68000,Diesel
+,Volkswagen Tiguan,Volkswagen,2012,1645000,130000,Diesel
+,Renault Captur,Volkswagen,2019,725000,80000,Petrol
+,Maruti Suzuki Baleno,Kia,2018,565000,1000,Diesel
+,Volkswagen Jetta,Maruti,2004,510000,38000,Diesel
+,Volkswagen Jetta,Tata,2019,570000,107000,Diesel
+,Tata Hexa,Honda,2021,2105000,31000,Diesel
+,Volkswagen Jetta,Tata,2002,505000,121000,Diesel
+,Mahindra XUV300,Nissan,2022,680000,73000,Petrol
+,Ford Figo Aspire,Kia,2022,125000,35000,Diesel
+,Mahindra Thar,Renault,2009,1020000,106000,Diesel
+,Renault Captur,Mahindra,2020,1270000,82000,Petrol
+,Hyundai Tucson,Maruti,2011,1555000,135000,Diesel
+,Volkswagen Tiguan,Jeep,2018,2350000,2000,Petrol
+,Volkswagen Jetta,Mahindra,2011,430000,73000,Diesel
+,Hyundai Venue,Renault,2004,1300000,131000,Diesel
+,Toyota Corolla,Jeep,2017,2420000,72000,Petrol
+,Kia Carnival,Toyota,2002,1950000,11000,Petrol
+,Ford Figo Aspire,MG,2014,1125000,103000,Petrol
+,Toyota Yaris,Toyota,2001,1145000,27000,Petrol
+,Mahindra Thar,Renault,2004,1120000,66000,Petrol
+,Maruti Suzuki Dzire,Ford,2013,655000,109000,Petrol
+,Mahindra Thar,MG,2005,645000,46000,Diesel
+,Maruti Suzuki Baleno,Hyundai,2011,1445000,41000,Diesel
+,Volkswagen Tiguan,Volkswagen,2019,1150000,130000,Diesel
+,Hyundai Tucson,Nissan,2015,1885000,45000,Diesel
+,Jeep Compass,Hyundai,2021,1490000,148000,Petrol
+,Hyundai Creta,Skoda,2007,190000,145000,Diesel
+,Honda Jazz,Tata,2004,345000,5000,Diesel
+,Tata Hexa,Hyundai,2006,1520000,17000,Petrol
+,Kia Seltos,Renault,2020,1745000,83000,Diesel
+,Honda Jazz,Volkswagen,2022,685000,46000,Diesel
+,Mahindra XUV300,Volkswagen,2014,1320000,88000,Diesel
+,Maruti Suzuki Dzire,Honda,2014,2090000,26000,Diesel
+,Toyota Corolla,Hyundai,2013,95000,10000,Petrol
+,Mahindra XUV300,Toyota,2014,1960000,94000,Diesel
+,Ford Figo Aspire,Renault,2007,680000,14000,Diesel
+,Volkswagen Jetta,Volkswagen,2002,2305000,136000,Diesel
+,Maruti Suzuki Dzire,Hyundai,2022,2455000,104000,Petrol
+,Volkswagen Jetta,Jeep,2001,2165000,14000,Petrol
+,Mahindra Thar,Renault,2005,975000,88000,Diesel
+,Honda Civic,Skoda,2020,1885000,72000,Diesel
+,Tata Hexa,Hyundai,2001,1760000,122000,Petrol
+,Renault Triber,Honda,2015,1125000,41000,Petrol
+,Toyota Yaris,MG,2000,825000,149000,Petrol
+,Ford Figo Aspire,Skoda,2008,1680000,93000,Petrol
+,Ford Endeavour,Nissan,2005,1380000,67000,Diesel
+,Toyota Fortuner,Jeep,2000,1575000,127000,Diesel
+,Nissan X-Trail,Nissan,2002,440000,87000,Petrol
+,Jeep Compass,Kia,2007,75000,108000,Diesel
+,Hyundai Creta,Hyundai,2002,1700000,88000,Petrol
+,Maruti Suzuki Dzire,Skoda,2000,605000,25000,Petrol
+,Hyundai Verna,Maruti,2017,210000,31000,Petrol
+,Tata Nexon,Renault,2019,1505000,107000,Diesel
+,Hyundai Venue,Kia,2015,2415000,10000,Petrol
+,Toyota Corolla,Mahindra,2009,1165000,3000,Diesel
+,Kia Carnival,Renault,2014,785000,30000,Petrol
+,Renault Captur,Kia,2002,2065000,125000,Diesel
+,Mahindra XUV300,Jeep,2011,155000,121000,Diesel
+,Maruti Suzuki Baleno,Honda,2017,1705000,118000,Petrol
+,Jeep Compass,Maruti,2010,2435000,36000,Petrol
+,Kia Carnival,Tata,2001,1630000,55000,Petrol
+,MG Hector,Renault,2022,1760000,17000,Diesel
+,Ford Figo Aspire,Tata,2012,950000,74000,Petrol
+,Renault Captur,Nissan,2002,2440000,14000,Petrol
+,Volkswagen Tiguan,Tata,2006,2010000,61000,Petrol
+,Hyundai Verna,Volkswagen,2017,715000,108000,Diesel
+,Jeep Compass,Tata,2009,1340000,21000,Diesel
+,Hyundai Verna,Renault,2014,1690000,118000,Diesel
+,Toyota Corolla,Skoda,2021,1820000,39000,Diesel
+,Toyota Yaris,Maruti,2022,2105000,6000,Diesel
+,Nissan X-Trail,Honda,2013,465000,146000,Diesel
+,Hyundai Tucson,Tata,2014,790000,105000,Petrol
+,Kia Carnival,Kia,2011,1995000,137000,Petrol
+,Maruti Suzuki Dzire,Maruti,2000,2085000,28000,Petrol
+,Volkswagen Jetta,Tata,2010,1445000,96000,Petrol
+,Tata Hexa,Renault,2015,645000,98000,Petrol
+,Tata Hexa,Nissan,2021,110000,12000,Diesel
+,Volkswagen Jetta,Mahindra,2004,405000,133000,Diesel
+,Jeep Compass,Maruti,2009,1870000,137000,Diesel
+,Skoda Octavia,Volkswagen,2009,2320000,41000,Diesel
+,Tata Nexon,Maruti,2006,1450000,122000,Diesel
+,Ford Endeavour,Skoda,2014,960000,75000,Petrol
+,Hyundai Tucson,MG,2019,1225000,123000,Petrol
+,Renault Captur,Nissan,2002,2195000,80000,Petrol
+,Renault Triber,Maruti,2003,825000,16000,Diesel
+,Maruti Suzuki Dzire,Maruti,2022,1980000,65000,Diesel
+,Renault Captur,Volkswagen,2008,600000,79000,Diesel
+,Skoda Octavia,Mahindra,2013,1145000,136000,Diesel
+,MG Hector,MG,2004,1275000,127000,Petrol
+,Ford Endeavour,Renault,2022,1950000,70000,Petrol
+,Volkswagen Jetta,Kia,2017,1460000,73000,Diesel
+,Volkswagen Jetta,Jeep,2010,1605000,42000,Petrol
+,Toyota Fortuner,Ford,2007,610000,60000,Diesel
+,Mahindra XUV300,Hyundai,2003,1390000,48000,Diesel
+,Maruti Suzuki Dzire,Kia,2016,1010000,92000,Petrol
+,Renault Triber,Ford,2014,990000,146000,Petrol
+,Toyota Corolla,Honda,2006,1280000,130000,Diesel
+,Nissan X-Trail,Hyundai,2022,565000,21000,Petrol
+,Volkswagen Tiguan,Renault,2003,2225000,72000,Petrol
+,Tata Hexa,Skoda,2004,110000,126000,Diesel
+,Jeep Compass,Ford,2008,440000,94000,Diesel
+,Mahindra Thar,Toyota,2010,1525000,12000,Petrol
+,Renault Captur,Tata,2006,1485000,13000,Diesel
+,MG Hector,Maruti,2016,760000,55000,Diesel
+,Skoda Octavia,Nissan,2004,910000,2000,Petrol
+,Maruti Suzuki Dzire,Nissan,2002,440000,124000,Petrol
+,Renault Triber,Toyota,2002,1105000,19000,Diesel
+,Maruti Suzuki Baleno,Tata,2003,455000,70000,Diesel
+,Ford Endeavour,MG,2016,840000,96000,Diesel
+,Mahindra XUV300,Maruti,2004,145000,149000,Diesel
+,Hyundai Verna,Tata,2005,2005000,60000,Petrol
+,Mahindra Thar,Maruti,2007,2465000,116000,Diesel
+,Hyundai Creta,Mahindra,2005,2040000,1000,Petrol
+,Toyota Corolla,Volkswagen,2010,1450000,106000,Diesel
+,Toyota Corolla,Volkswagen,2016,730000,8000,Diesel
+,Mahindra XUV300,Nissan,2001,1170000,109000,Diesel
+,Honda Jazz,Maruti,2003,2280000,8000,Diesel
+,Mahindra XUV300,Renault,2007,1495000,66000,Petrol
+,Kia Carnival,Jeep,2022,2125000,1000,Petrol
+,Hyundai Tucson,Volkswagen,2000,2265000,84000,Diesel
+,Tata Nexon,Renault,2007,1045000,83000,Petrol
+,Hyundai Creta,Tata,2019,745000,6000,Petrol
+,Nissan X-Trail,Skoda,2009,530000,119000,Petrol
+,Skoda Octavia,Jeep,2007,595000,148000,Petrol
+,Hyundai Creta,Kia,2019,180000,135000,Petrol
+,Toyota Yaris,Renault,2017,1885000,84000,Diesel
+,Mahindra XUV300,Skoda,2009,705000,4000,Petrol
+,Nissan X-Trail,Renault,2022,1800000,2000,Petrol
+,Skoda Octavia,Honda,2021,2210000,90000,Diesel
+,Honda Jazz,Toyota,2004,1780000,25000,Petrol
+,MG Hector,Hyundai,2018,215000,32000,Diesel
+,Volkswagen Jetta,Skoda,2001,2210000,49000,Diesel
+,Skoda Octavia,Hyundai,2022,1265000,84000,Diesel
+,Renault Captur,MG,2005,2450000,123000,Diesel
+,Honda Jazz,Maruti,2018,2005000,37000,Petrol
+,Volkswagen Jetta,Kia,2012,780000,66000,Petrol
+,Volkswagen Tiguan,Honda,2018,260000,118000,Petrol
+,Mahindra XUV300,Renault,2021,475000,94000,Diesel
+,Maruti Suzuki Dzire,Maruti,2018,990000,125000,Diesel
+,Hyundai Creta,Maruti,2018,300000,95000,Diesel
+,Tata Hexa,Mahindra,2017,115000,146000,Diesel
+,Tata Nexon,Jeep,2018,1405000,19000,Petrol
+,Tata Nexon,Skoda,2012,1385000,127000,Petrol
+,Volkswagen Jetta,MG,2007,315000,38000,Petrol
+,Jeep Compass,Maruti,2005,480000,27000,Petrol
+,Maruti Suzuki Dzire,Nissan,2016,1890000,95000,Diesel
+,Ford Figo Aspire,Ford,2018,645000,72000,Diesel
+,Hyundai Creta,Volkswagen,2010,1245000,88000,Diesel
+,Maruti Suzuki Baleno,Skoda,2012,300000,83000,Petrol
+,Tata Hexa,Volkswagen,2018,2095000,89000,Diesel
+,Jeep Compass,Ford,2002,1645000,104000,Petrol
+,Ford Endeavour,Tata,2005,1125000,116000,Petrol
+,Ford Figo Aspire,Tata,2001,50000,87000,Diesel
+,Hyundai Tucson,Toyota,2011,315000,45000,Diesel
+,Tata Nexon,Nissan,2006,2215000,128000,Diesel
+,Tata Nexon,Nissan,2011,455000,2000,Petrol
+,Mahindra Thar,Volkswagen,2006,1690000,90000,Petrol
+,Volkswagen Jetta,Maruti,2002,360000,61000,Diesel
+,Honda Jazz,Tata,2021,1655000,110000,Diesel
+,Tata Nexon,Mahindra,2003,125000,11000,Petrol
+,Jeep Compass,Renault,2016,1225000,112000,Diesel
+,Volkswagen Jetta,Maruti,2002,2295000,45000,Petrol
+,Maruti Suzuki Dzire,Mahindra,2022,1940000,139000,Petrol
+,Tata Nexon,Ford,2016,70000,124000,Diesel
+,Toyota Fortuner,Mahindra,2002,1720000,134000,Petrol
+,Maruti Suzuki Dzire,Honda,2004,865000,102000,Diesel
+,Volkswagen Tiguan,Maruti,2008,1985000,73000,Diesel
+,Nissan X-Trail,Renault,2008,2420000,135000,Petrol
+,Maruti Suzuki Dzire,Kia,2012,805000,67000,Petrol
+,Renault Captur,Jeep,2017,175000,140000,Petrol
+,Maruti Suzuki Baleno,Volkswagen,2012,455000,75000,Petrol
+,Kia Carnival,Tata,2008,2060000,62000,Petrol
+,Maruti Suzuki Dzire,Ford,2007,2490000,7000,Petrol
+,Maruti Suzuki Baleno,MG,2020,410000,24000,Diesel
+,Hyundai Tucson,Hyundai,2008,1050000,104000,Diesel
+,Hyundai Tucson,Jeep,2009,895000,98000,Petrol
+,Jeep Compass,Maruti,2018,270000,35000,Diesel
+,Hyundai Verna,Ford,2002,275000,2000,Diesel
+,Toyota Yaris,Ford,2018,1200000,4000,Petrol
+,Tata Hexa,Kia,2004,815000,96000,Petrol
+,Volkswagen Tiguan,Honda,2003,2430000,59000,Petrol
+,Toyota Corolla,Ford,2018,790000,44000,Diesel
+,Mahindra Thar,Renault,2020,2235000,55000,Diesel
+,MG Hector,Hyundai,2010,1930000,116000,Petrol
+,Skoda Octavia,Tata,2005,430000,32000,Diesel
+,Jeep Compass,Nissan,2004,245000,79000,Petrol
+,Mahindra Thar,Kia,2006,1440000,22000,Diesel
+,Renault Triber,Volkswagen,2003,1820000,71000,Petrol
+,Maruti Suzuki Baleno,Mahindra,2004,750000,103000,Diesel
+,Renault Triber,Maruti,2015,205000,11000,Petrol
+,Mahindra Thar,Toyota,2013,1685000,7000,Petrol
+,Kia Carnival,Kia,2001,1060000,101000,Petrol
+,Volkswagen Tiguan,Jeep,2014,1415000,37000,Petrol
+,Ford Figo Aspire,Tata,2000,1840000,7000,Diesel
+,Hyundai Venue,Volkswagen,2002,2330000,147000,Petrol
+,Hyundai Verna,Toyota,2017,2060000,39000,Diesel
+,Renault Triber,Toyota,2011,975000,119000,Petrol
+,Nissan X-Trail,Toyota,2009,2125000,127000,Diesel
+,Mahindra Thar,Maruti,2007,2335000,87000,Diesel
+,Nissan X-Trail,Maruti,2009,455000,84000,Petrol
+,Kia Carnival,Jeep,2005,995000,128000,Petrol
+,Maruti Suzuki Baleno,Honda,2013,2280000,80000,Petrol
+,MG Hector,Maruti,2011,140000,15000,Petrol
+,Toyota Yaris,Skoda,2022,1360000,118000,Diesel
+,Mahindra Thar,Honda,2019,500000,30000,Diesel
+,Nissan X-Trail,MG,2007,2165000,48000,Petrol
+,Renault Captur,Tata,2008,1610000,100000,Petrol
+,Hyundai Tucson,Maruti,2002,2420000,39000,Diesel
+,Volkswagen Tiguan,Nissan,2011,1810000,123000,Petrol
+,Maruti Suzuki Dzire,Ford,2020,1130000,23000,Diesel
+,Volkswagen Jetta,Mahindra,2015,2375000,90000,Diesel
+,Honda Jazz,MG,2022,1115000,31000,Diesel
+,Kia Seltos,Tata,2013,1510000,100000,Petrol
+,Mahindra Thar,Mahindra,2016,1700000,53000,Petrol
+,Kia Seltos,Hyundai,2009,960000,60000,Diesel
+,Ford Figo Aspire,MG,2003,260000,67000,Petrol
+,Maruti Suzuki Dzire,Skoda,2016,1825000,77000,Diesel
+,Ford Endeavour,Skoda,2019,2445000,115000,Petrol
+,MG Hector,Kia,2012,325000,104000,Diesel
+,Ford Endeavour,Jeep,2003,1025000,9000,Petrol
+,Toyota Corolla,Volkswagen,2022,1370000,115000,Diesel
+,Kia Seltos,Mahindra,2020,1810000,38000,Diesel
+,Toyota Corolla,Hyundai,2018,1530000,134000,Petrol
+,Renault Triber,Hyundai,2007,2295000,100000,Petrol
+,Mahindra XUV300,Mahindra,2006,1290000,95000,Diesel
+,Toyota Yaris,Hyundai,2021,1305000,136000,Diesel
+,Jeep Compass,Hyundai,2011,2370000,24000,Diesel
+,Kia Carnival,Hyundai,2019,430000,102000,Petrol
+,Volkswagen Tiguan,Skoda,2017,870000,88000,Diesel
+,Toyota Corolla,Maruti,2014,1775000,19000,Diesel
+,Renault Captur,MG,2016,795000,106000,Petrol
+,Tata Nexon,Nissan,2006,1410000,13000,Petrol
+,Maruti Suzuki Dzire,Renault,2007,1020000,71000,Diesel
+,Maruti Suzuki Dzire,Toyota,2019,975000,49000,Petrol
+,Hyundai Creta,MG,2018,440000,109000,Petrol
+,Honda Civic,Maruti,2011,1505000,40000,Diesel
+,Maruti Suzuki Baleno,Ford,2006,1520000,142000,Diesel
+,Kia Carnival,Ford,2019,260000,116000,Petrol
+,Hyundai Creta,Renault,2009,2190000,22000,Petrol
+,Ford Endeavour,Skoda,2007,1010000,138000,Petrol
+,Volkswagen Tiguan,MG,2009,340000,129000,Petrol
+,Honda Jazz,MG,2022,1195000,149000,Petrol
+,Mahindra Thar,Hyundai,2008,60000,110000,Diesel
+,Ford Endeavour,Honda,2013,2095000,136000,Diesel
+,Mahindra Thar,Tata,2001,1920000,16000,Diesel
+,Mahindra Thar,Toyota,2020,1855000,31000,Petrol
+,Maruti Suzuki Dzire,Honda,2010,105000,91000,Diesel
+,Mahindra XUV300,Renault,2018,1265000,133000,Diesel
+,Jeep Compass,Jeep,2002,450000,24000,Diesel
+,Toyota Fortuner,Volkswagen,2000,2065000,109000,Diesel
+,Volkswagen Jetta,Jeep,2019,235000,138000,Petrol
+,Toyota Yaris,MG,2019,1790000,59000,Petrol
+,Renault Captur,Jeep,2005,920000,52000,Diesel
+,Jeep Compass,Tata,2022,2305000,61000,Diesel
+,Volkswagen Jetta,Nissan,2011,205000,77000,Diesel
+,Maruti Suzuki Baleno,MG,2002,1395000,58000,Diesel
+,Hyundai Venue,Nissan,2000,290000,87000,Diesel
+,Mahindra Thar,Renault,2016,1410000,146000,Petrol
+,Mahindra XUV300,Kia,2012,1975000,22000,Petrol
+,MG Hector,Jeep,2010,1840000,99000,Diesel
+,Toyota Fortuner,Maruti,2002,520000,39000,Petrol
+,Toyota Yaris,Renault,2005,55000,46000,Petrol
+,Toyota Corolla,Honda,2016,355000,97000,Diesel
+,Kia Seltos,Toyota,2012,1750000,16000,Petrol
+,Jeep Compass,Jeep,2015,605000,91000,Petrol
+,Hyundai Venue,Hyundai,2017,1705000,15000,Diesel
+,MG Hector,Kia,2000,1390000,9000,Diesel
+,Maruti Suzuki Baleno,Honda,2017,340000,95000,Petrol
+,Kia Seltos,Mahindra,2011,1700000,37000,Diesel
+,Toyota Fortuner,Volkswagen,2009,555000,133000,Diesel
+,Ford Endeavour,Renault,2002,1030000,146000,Petrol
+,Toyota Yaris,Tata,2009,2025000,93000,Petrol
+,Mahindra XUV300,Honda,2022,770000,10000,Petrol
+,Skoda Octavia,Renault,2002,255000,29000,Diesel
+,Hyundai Venue,Maruti,2006,320000,131000,Petrol
+,Renault Captur,Hyundai,2015,865000,115000,Petrol
+,Honda Jazz,MG,2011,1875000,48000,Petrol
+,Hyundai Verna,Skoda,2021,2005000,144000,Petrol
+,Mahindra XUV300,Toyota,2008,1275000,105000,Diesel
+,Nissan X-Trail,Kia,2013,120000,58000,Petrol
+,Hyundai Creta,Kia,2020,870000,18000,Diesel
+,Honda Civic,Kia,2011,1330000,91000,Petrol
+,Hyundai Verna,Hyundai,2004,910000,47000,Diesel
+,Tata Hexa,Skoda,2017,700000,63000,Petrol
+,Ford Endeavour,Tata,2012,1685000,38000,Diesel
+,Tata Hexa,Skoda,2001,1840000,50000,Petrol
+,Volkswagen Jetta,Volkswagen,2002,300000,10000,Petrol
+,Renault Captur,Mahindra,2016,325000,44000,Petrol
+,Tata Hexa,Volkswagen,2010,1745000,73000,Diesel
+,Renault Triber,Mahindra,2002,2315000,53000,Petrol
+,Hyundai Tucson,Mahindra,2012,815000,17000,Diesel
+,Renault Triber,Mahindra,2005,610000,144000,Petrol
+,Nissan X-Trail,Toyota,2005,2360000,149000,Petrol
+,Kia Seltos,Kia,2000,605000,47000,Petrol
+,Mahindra Thar,Renault,2003,315000,113000,Petrol
+,Maruti Suzuki Baleno,Nissan,2014,910000,105000,Diesel
+,Maruti Suzuki Baleno,MG,2005,1900000,52000,Diesel
+,Hyundai Creta,Honda,2018,1300000,13000,Petrol
+,Maruti Suzuki Dzire,Mahindra,2022,1145000,19000,Diesel
+,Volkswagen Tiguan,Volkswagen,2018,1540000,119000,Petrol
+,Kia Carnival,Renault,2014,285000,23000,Diesel
+,Kia Carnival,Jeep,2008,2050000,4000,Diesel
+,Mahindra XUV300,Nissan,2012,625000,16000,Petrol
+,Honda Civic,Maruti,2002,105000,27000,Petrol
+,Honda Jazz,MG,2012,1525000,132000,Diesel
+,Kia Carnival,Mahindra,2013,1525000,91000,Diesel
+,Honda Jazz,Toyota,2005,800000,106000,Petrol
+,Mahindra XUV300,Volkswagen,2019,315000,56000,Diesel
+,Kia Seltos,Kia,2017,1940000,58000,Diesel
+,Mahindra Thar,Renault,2011,1745000,109000,Diesel
+,Hyundai Tucson,Hyundai,2022,345000,98000,Petrol
+,Skoda Octavia,Mahindra,2022,550000,58000,Diesel
+,Volkswagen Jetta,Maruti,2019,1325000,44000,Diesel
+,MG Hector,Skoda,2007,1460000,46000,Petrol
+,Volkswagen Jetta,Toyota,2007,1540000,24000,Diesel
+,Tata Hexa,Renault,2022,2160000,22000,Petrol
+,Tata Hexa,Mahindra,2002,480000,52000,Petrol
+,Mahindra Thar,Nissan,2011,410000,146000,Diesel
+,Mahindra Thar,Ford,2018,120000,25000,Diesel
+,Tata Hexa,Tata,2010,1635000,39000,Diesel
+,Honda Jazz,Honda,2004,255000,74000,Diesel
+,Toyota Yaris,Hyundai,2016,1435000,98000,Diesel
+,Ford Figo Aspire,Kia,2010,2395000,13000,Petrol
+,Jeep Compass,Honda,2000,720000,38000,Diesel
+,Jeep Compass,Ford,2005,1725000,4000,Petrol
+,Honda Civic,Toyota,2005,590000,120000,Petrol
+,Hyundai Creta,Tata,2007,2140000,71000,Petrol
+,Renault Triber,Jeep,2002,90000,52000,Petrol
+,Kia Carnival,Jeep,2003,485000,145000,Petrol
+,Honda Jazz,Ford,2009,1015000,129000,Diesel
+,Toyota Corolla,Honda,2003,2095000,71000,Diesel
+,Toyota Fortuner,Toyota,2016,70000,105000,Petrol
+,Hyundai Creta,Ford,2020,990000,68000,Diesel
+,Tata Hexa,Nissan,2012,270000,71000,Diesel
+,Kia Carnival,Kia,2011,565000,38000,Diesel
+,Honda Jazz,Hyundai,2009,1995000,125000,Diesel
+,Renault Triber,Toyota,2017,765000,16000,Petrol
+,Mahindra XUV300,Tata,2000,2415000,56000,Diesel
+,Ford Endeavour,MG,2020,620000,55000,Petrol
+,Toyota Corolla,Hyundai,2002,1790000,101000,Petrol
+,Maruti Suzuki Baleno,Maruti,2019,105000,141000,Diesel
+,MG Hector,MG,2007,330000,86000,Petrol
+,Renault Triber,Tata,2003,515000,27000,Petrol
+,Skoda Octavia,Volkswagen,2006,1720000,53000,Petrol
+,Renault Captur,Honda,2008,1780000,1000,Petrol
+,Jeep Compass,Volkswagen,2017,1510000,66000,Diesel
+,Mahindra XUV300,Tata,2011,1005000,75000,Diesel
+,Toyota Corolla,Mahindra,2011,405000,51000,Diesel
+,Skoda Octavia,Nissan,2016,1850000,73000,Petrol
+,Toyota Corolla,MG,2009,1490000,58000,Diesel
+,Tata Nexon,Tata,2011,1330000,12000,Diesel
+,Mahindra Thar,Renault,2016,2455000,117000,Diesel
+,Tata Nexon,Hyundai,2002,1135000,36000,Diesel
+,Ford Figo Aspire,Ford,2006,1100000,115000,Diesel
+,Renault Triber,Honda,2018,2465000,90000,Petrol
+,Toyota Yaris,Renault,2008,850000,26000,Diesel
+,Ford Endeavour,Volkswagen,2015,1460000,59000,Petrol
+,Toyota Corolla,Tata,2008,765000,79000,Petrol
+,MG Hector,Jeep,2018,600000,93000,Diesel
+,Hyundai Tucson,Ford,2008,1245000,57000,Diesel
+,Kia Seltos,Nissan,2022,1155000,114000,Diesel
+,Renault Captur,Kia,2011,1410000,90000,Petrol
+,Nissan X-Trail,Renault,2008,1635000,143000,Petrol
+,Hyundai Venue,MG,2015,970000,149000,Petrol
+,Tata Hexa,Toyota,2019,2345000,106000,Petrol
+,Hyundai Tucson,Hyundai,2013,1905000,77000,Petrol
+,Nissan X-Trail,Nissan,2015,1755000,116000,Petrol
+,Honda Jazz,Volkswagen,2001,620000,77000,Petrol
+,Hyundai Verna,MG,2019,245000,56000,Diesel
+,Renault Triber,MG,2002,540000,59000,Petrol
+,Nissan X-Trail,Renault,2017,2125000,115000,Petrol
+,Volkswagen Tiguan,Maruti,2015,710000,46000,Diesel
+,Skoda Octavia,Renault,2002,265000,123000,Petrol
+,Ford Endeavour,Nissan,2007,1455000,51000,Petrol
+,Mahindra XUV300,Mahindra,2013,735000,122000,Diesel
+,Kia Carnival,Tata,2013,75000,62000,Diesel
+,Kia Carnival,Jeep,2016,1065000,136000,Petrol
+,Ford Endeavour,Skoda,2020,485000,104000,Petrol
+,Nissan X-Trail,MG,2011,1375000,42000,Diesel
+,Hyundai Creta,Hyundai,2007,540000,49000,Diesel
+,Mahindra XUV300,Hyundai,2009,2025000,62000,Diesel
+,Honda Civic,MG,2022,2245000,62000,Diesel
+,Kia Seltos,Hyundai,2000,280000,26000,Diesel
+,Ford Figo Aspire,Maruti,2003,395000,26000,Diesel
+,Honda Jazz,Honda,2006,535000,108000,Petrol
+,Toyota Corolla,Skoda,2020,1090000,128000,Diesel
+,Ford Endeavour,Mahindra,2018,1700000,70000,Diesel
+,Hyundai Verna,Hyundai,2011,2450000,11000,Diesel
+,Tata Nexon,Tata,2010,2235000,86000,Diesel
+,Volkswagen Tiguan,Jeep,2009,735000,129000,Diesel
+,Volkswagen Tiguan,Volkswagen,2011,960000,108000,Diesel
+,Volkswagen Tiguan,Honda,2013,1205000,136000,Petrol
+,Skoda Octavia,Honda,2016,2345000,44000,Diesel
+,Kia Seltos,Mahindra,2022,1375000,128000,Diesel
+,Maruti Suzuki Dzire,Volkswagen,2016,325000,52000,Diesel
+,Ford Figo Aspire,Honda,2000,2195000,41000,Petrol
+,Ford Figo Aspire,Toyota,2014,1320000,3000,Petrol
+,Nissan X-Trail,Mahindra,2009,990000,54000,Diesel
+,Hyundai Verna,Volkswagen,2006,1240000,49000,Petrol
+,Volkswagen Tiguan,Hyundai,2008,2340000,12000,Diesel
+,Volkswagen Tiguan,MG,2014,2275000,64000,Diesel
+,Maruti Suzuki Baleno,Renault,2002,660000,9000,Petrol
+,Maruti Suzuki Dzire,Maruti,2020,2420000,146000,Petrol
+,Renault Triber,Hyundai,2004,790000,138000,Petrol
+,Skoda Octavia,Renault,2020,405000,102000,Diesel
+,Honda Civic,Nissan,2021,2315000,65000,Diesel
+,Maruti Suzuki Dzire,Maruti,2009,1660000,97000,Petrol
+,Ford Figo Aspire,Skoda,2006,1480000,80000,Diesel
+,Volkswagen Tiguan,Tata,2009,1430000,92000,Diesel
+,Toyota Fortuner,Jeep,2019,2150000,95000,Petrol
+,Honda Civic,Kia,2014,660000,52000,Diesel
+,Nissan X-Trail,Maruti,2008,195000,128000,Petrol
+,Toyota Corolla,Jeep,2006,1065000,128000,Petrol
+,Hyundai Venue,Nissan,2011,750000,120000,Petrol
+,Volkswagen Tiguan,Toyota,2005,315000,119000,Diesel
+,Nissan X-Trail,Kia,2015,2360000,129000,Petrol
+,Nissan X-Trail,MG,2000,2340000,62000,Diesel
+,Hyundai Venue,Maruti,2006,1040000,31000,Petrol
+,Mahindra Thar,Nissan,2000,1050000,98000,Diesel
+,MG Hector,Skoda,2010,1645000,68000,Diesel
+,Ford Figo Aspire,Nissan,2000,2235000,68000,Diesel
+,Hyundai Tucson,Tata,2018,2435000,81000,Petrol
+,Hyundai Creta,Nissan,2011,2015000,135000,Diesel
+,Renault Captur,Jeep,2007,1340000,141000,Petrol
+,Skoda Octavia,Toyota,2005,2345000,142000,Diesel
+,Honda Civic,Hyundai,2014,310000,119000,Petrol
+,Renault Triber,Kia,2010,1370000,96000,Petrol
+,Hyundai Venue,Mahindra,2014,1205000,30000,Petrol
+,Jeep Compass,Tata,2015,1765000,94000,Petrol
+,Toyota Corolla,Honda,2009,1210000,108000,Diesel
+,Jeep Compass,Ford,2011,1485000,7000,Petrol
+,Maruti Suzuki Dzire,Mahindra,2010,740000,113000,Diesel
+,Mahindra Thar,Kia,2001,1935000,24000,Petrol
+,Kia Carnival,Maruti,2007,2140000,140000,Diesel
+,Tata Nexon,Nissan,2009,1035000,18000,Diesel
+,Kia Carnival,Nissan,2006,190000,77000,Diesel
+,Renault Captur,Skoda,2020,1695000,68000,Petrol
+,Hyundai Tucson,MG,2004,1090000,52000,Petrol
+,Tata Hexa,Maruti,2021,820000,83000,Petrol
+,Volkswagen Tiguan,Jeep,2000,60000,146000,Diesel
+,Mahindra Thar,Toyota,2014,1515000,123000,Petrol
+,Nissan X-Trail,Skoda,2005,1545000,30000,Petrol
+,Kia Seltos,Hyundai,2020,610000,38000,Diesel
+,Kia Seltos,Skoda,2009,2320000,106000,Petrol
+,Hyundai Creta,Skoda,2015,630000,84000,Petrol
+,Skoda Octavia,Ford,2003,1810000,9000,Petrol
+,Skoda Octavia,Renault,2003,2450000,61000,Petrol
+,Hyundai Tucson,Hyundai,2004,215000,131000,Petrol
+,Tata Hexa,Renault,2016,650000,10000,Petrol
+,Skoda Octavia,Skoda,2020,695000,70000,Diesel
+,Toyota Yaris,Hyundai,2012,535000,78000,Petrol
+,Toyota Yaris,Mahindra,2017,105000,11000,Petrol
+,Maruti Suzuki Dzire,Hyundai,2021,2245000,133000,Petrol
+,Ford Figo Aspire,Volkswagen,2016,675000,41000,Diesel
+,Nissan X-Trail,Hyundai,2016,890000,96000,Diesel
+,Hyundai Tucson,MG,2007,75000,36000,Petrol
+,Renault Captur,Renault,2000,760000,50000,Diesel
+,Kia Carnival,Volkswagen,2017,300000,113000,Petrol
+,Jeep Compass,Tata,2016,1900000,110000,Petrol
+,Renault Triber,Jeep,2016,1665000,40000,Petrol
+,Ford Figo Aspire,MG,2014,2235000,87000,Diesel
+,Mahindra Thar,Nissan,2010,540000,30000,Diesel
+,Tata Hexa,Jeep,2016,115000,57000,Petrol
+,Renault Triber,MG,2018,1605000,37000,Diesel
+,Tata Hexa,Renault,2008,1685000,99000,Diesel
+,Honda Jazz,Toyota,2000,1265000,96000,Diesel
+,Renault Triber,Mahindra,2018,2385000,140000,Petrol
+,Honda Jazz,Volkswagen,2005,2020000,92000,Diesel
+,Hyundai Creta,Maruti,2009,2035000,9000,Diesel
+,Hyundai Verna,Tata,2015,475000,100000,Diesel
+,Tata Hexa,Volkswagen,2006,50000,60000,Diesel
+,Kia Seltos,Nissan,2000,855000,77000,Petrol
+,Toyota Fortuner,Nissan,2006,305000,123000,Petrol
+,Kia Seltos,MG,2012,1165000,37000,Petrol
+,Honda Civic,MG,2012,1375000,61000,Petrol
+,Honda Civic,Ford,2003,160000,40000,Diesel
+,Mahindra Thar,Kia,2004,2105000,103000,Diesel
+,Renault Triber,Maruti,2001,1015000,63000,Petrol
+,Skoda Octavia,Mahindra,2008,1475000,50000,Diesel
+,Toyota Yaris,Ford,2013,1460000,20000,Diesel
+,Kia Seltos,Nissan,2019,205000,17000,Petrol
+,Tata Nexon,MG,2021,1965000,131000,Petrol
+,Maruti Suzuki Baleno,Volkswagen,2006,785000,63000,Diesel
+,Kia Seltos,Tata,2017,1930000,34000,Petrol
+,Nissan X-Trail,Volkswagen,2008,660000,69000,Petrol
+,MG Hector,Tata,2017,1235000,109000,Petrol
+,Maruti Suzuki Baleno,Hyundai,2007,1330000,66000,Diesel
+,Renault Captur,Honda,2019,740000,65000,Petrol
+,Tata Hexa,Maruti,2011,2180000,3000,Petrol
+,Mahindra XUV300,Skoda,2017,780000,106000,Diesel
+,Toyota Yaris,Skoda,2012,2160000,52000,Diesel
+,Hyundai Verna,Nissan,2001,580000,28000,Petrol
+,Renault Triber,Honda,2003,2340000,53000,Petrol
+,Kia Carnival,Jeep,2017,950000,57000,Diesel
+,Nissan X-Trail,Honda,2009,1970000,114000,Petrol
+,Toyota Fortuner,Kia,2005,185000,116000,Diesel
+,Skoda Octavia,Nissan,2002,2375000,29000,Diesel
+,Maruti Suzuki Dzire,Hyundai,2004,2440000,125000,Petrol
+,Hyundai Venue,Tata,2003,1710000,38000,Petrol
+,Tata Hexa,Jeep,2021,1895000,56000,Diesel
+,Toyota Fortuner,Volkswagen,2013,2435000,30000,Diesel
+,Hyundai Verna,Hyundai,2002,1155000,78000,Petrol
+,Maruti Suzuki Dzire,Tata,2013,2075000,68000,Diesel
+,Maruti Suzuki Dzire,Ford,2018,1285000,125000,Petrol
+,Renault Captur,Volkswagen,2015,85000,4000,Diesel
+,Volkswagen Tiguan,Mahindra,2013,560000,31000,Petrol
+,Honda Civic,Ford,2007,1675000,35000,Diesel
+,Tata Hexa,Kia,2004,570000,45000,Diesel
+,Skoda Octavia,Renault,2021,2355000,71000,Petrol
+,Tata Hexa,Nissan,2018,2235000,134000,Diesel
+,MG Hector,MG,2020,1715000,40000,Diesel
+,Toyota Corolla,Tata,2005,395000,138000,Diesel
+,Mahindra XUV300,Renault,2016,1675000,135000,Petrol
+,Hyundai Venue,Nissan,2001,915000,138000,Diesel
+,Kia Carnival,Kia,2001,1265000,106000,Diesel
+,Maruti Suzuki Baleno,Nissan,2013,825000,37000,Petrol
+,Renault Triber,Toyota,2018,1780000,28000,Diesel
+,Hyundai Verna,Mahindra,2011,1760000,86000,Petrol
+,Kia Carnival,Toyota,2000,1165000,42000,Petrol
+,Mahindra Thar,Renault,2015,1670000,105000,Diesel
+,Toyota Corolla,Honda,2007,2265000,127000,Petrol
+,Honda Civic,Hyundai,2020,450000,122000,Diesel
+,Hyundai Verna,Toyota,2022,1140000,105000,Petrol
+,Ford Figo Aspire,Mahindra,2003,960000,130000,Petrol
+,Ford Figo Aspire,MG,2003,1690000,126000,Petrol
+,Toyota Fortuner,Renault,2019,355000,120000,Petrol
+,MG Hector,Volkswagen,2010,1270000,105000,Diesel
+,Mahindra XUV300,Volkswagen,2013,410000,51000,Petrol
+,Kia Carnival,Renault,2004,1135000,93000,Diesel
+,Volkswagen Jetta,Toyota,2008,190000,87000,Diesel
+,Toyota Fortuner,Skoda,2014,2100000,23000,Petrol
+,Ford Endeavour,Maruti,2017,2215000,68000,Petrol
+,Kia Seltos,Jeep,2011,700000,42000,Petrol
+,MG Hector,Ford,2004,1385000,134000,Petrol
+,Maruti Suzuki Dzire,Hyundai,2018,2055000,149000,Diesel
+,Skoda Octavia,Skoda,2007,55000,66000,Diesel
+,Ford Figo Aspire,MG,2007,435000,117000,Petrol
+,MG Hector,Skoda,2016,895000,49000,Petrol
+,Kia Seltos,Renault,2015,735000,143000,Petrol
+,Honda Jazz,Jeep,2007,1460000,20000,Petrol
+,Nissan X-Trail,Skoda,2014,900000,66000,Diesel
+,Ford Figo Aspire,Maruti,2000,510000,120000,Diesel
+,MG Hector,Hyundai,2004,700000,125000,Diesel
+,Honda Civic,Renault,2017,1190000,97000,Petrol
+,Ford Figo Aspire,Ford,2003,2115000,32000,Diesel
+,Toyota Corolla,MG,2000,1685000,75000,Petrol
+,Kia Seltos,Mahindra,2005,1605000,102000,Diesel
+,Toyota Fortuner,Honda,2010,2495000,77000,Petrol
+,Honda Jazz,Toyota,2018,1310000,82000,Petrol
+,Hyundai Creta,Jeep,2001,650000,46000,Petrol
+,Ford Endeavour,Skoda,2005,1400000,40000,Petrol
+,Toyota Yaris,Hyundai,2018,1790000,37000,Diesel
+,Hyundai Tucson,Maruti,2003,2160000,111000,Petrol
+,Skoda Octavia,Toyota,2003,1600000,123000,Petrol
+,Nissan X-Trail,Mahindra,2005,190000,79000,Petrol
+,Tata Nexon,Toyota,2016,2305000,60000,Diesel
+,Jeep Compass,Kia,2003,2455000,107000,Diesel
+,Toyota Yaris,Toyota,2018,2345000,34000,Petrol
+,Ford Figo Aspire,Maruti,2010,2120000,12000,Petrol
+,Kia Carnival,MG,2014,2145000,8000,Diesel
+,Honda Jazz,Maruti,2010,2255000,127000,Diesel
+,Honda Jazz,Toyota,2011,2255000,95000,Petrol
+,MG Hector,Jeep,2019,1405000,28000,Petrol
+,Ford Figo Aspire,Jeep,2019,285000,1000,Petrol
+,Hyundai Creta,MG,2013,1785000,87000,Diesel
+,Hyundai Tucson,Maruti,2020,1075000,4000,Petrol
+,Hyundai Verna,Honda,2019,390000,124000,Diesel
+,Hyundai Venue,MG,2000,1130000,14000,Diesel
+,Mahindra Thar,Volkswagen,2015,1210000,92000,Diesel
+,Ford Endeavour,Mahindra,2012,340000,24000,Diesel
+,Hyundai Verna,MG,2010,330000,140000,Petrol
+,Toyota Fortuner,Ford,2002,1365000,48000,Diesel
+,Tata Hexa,Nissan,2001,855000,81000,Diesel
+,Hyundai Venue,Toyota,2004,2485000,138000,Diesel
+,Maruti Suzuki Baleno,Maruti,2006,1380000,35000,Diesel
+,MG Hector,Jeep,2001,985000,71000,Petrol
+,Kia Seltos,Renault,2001,2435000,29000,Diesel
+,Honda Jazz,Tata,2006,1020000,81000,Petrol
+,Tata Nexon,Honda,2004,415000,5000,Diesel
+,Skoda Octavia,Tata,2018,1925000,140000,Petrol
+,Honda Civic,Volkswagen,2017,1000000,48000,Diesel
+,Volkswagen Jetta,Ford,2012,685000,129000,Petrol
+,Toyota Corolla,Toyota,2004,485000,68000,Diesel
+,Ford Figo Aspire,Skoda,2020,2420000,102000,Diesel
+,Hyundai Tucson,Hyundai,2011,935000,6000,Diesel
+,Volkswagen Jetta,Jeep,2020,300000,24000,Diesel
+,Nissan X-Trail,Jeep,2002,2375000,118000,Diesel
+,Tata Nexon,Ford,2016,1325000,60000,Diesel
+,Renault Triber,Tata,2013,1335000,28000,Diesel
+,Toyota Corolla,Maruti,2015,2480000,46000,Petrol
+,Kia Seltos,Tata,2022,2305000,90000,Diesel
+,Hyundai Venue,Volkswagen,2001,785000,81000,Petrol
+,Kia Seltos,Maruti,2011,2280000,136000,Diesel
+,Tata Hexa,Skoda,2009,1855000,139000,Petrol
+,Toyota Yaris,Nissan,2007,1090000,119000,Petrol
+,Hyundai Creta,MG,2008,560000,149000,Petrol
+,Tata Nexon,Volkswagen,2006,1850000,7000,Petrol
+,Kia Seltos,Maruti,2007,575000,94000,Petrol
+,Toyota Yaris,Hyundai,2014,440000,38000,Petrol
+,Toyota Corolla,Renault,2004,480000,41000,Petrol
+,Maruti Suzuki Dzire,Mahindra,2003,2310000,147000,Petrol
+,Toyota Fortuner,Hyundai,2014,945000,109000,Petrol
+,Hyundai Verna,Skoda,2010,1440000,120000,Diesel
+,Tata Hexa,MG,2009,535000,49000,Diesel
+,Hyundai Venue,Toyota,2009,2295000,148000,Petrol
+,Volkswagen Tiguan,Jeep,2005,1455000,135000,Petrol
+,Mahindra XUV300,Toyota,2002,2435000,87000,Petrol
+,Mahindra Thar,Kia,2019,770000,3000,Petrol
+,Maruti Suzuki Baleno,Volkswagen,2003,1175000,37000,Diesel
+,Volkswagen Tiguan,Toyota,2013,1345000,128000,Diesel
+,Honda Jazz,Tata,2014,2260000,23000,Petrol
+,Maruti Suzuki Baleno,Tata,2006,645000,27000,Petrol
+,Renault Triber,Mahindra,2018,610000,86000,Diesel
+,Ford Endeavour,Tata,2006,2255000,44000,Diesel
+,Renault Captur,Maruti,2021,1740000,142000,Diesel
+,Volkswagen Jetta,Ford,2007,2410000,5000,Diesel
+,Mahindra XUV300,Mahindra,2011,1350000,141000,Diesel
+,Renault Triber,Kia,2004,80000,148000,Petrol
+,Volkswagen Jetta,Hyundai,2011,1510000,118000,Diesel
+,Honda Civic,Hyundai,2018,1480000,111000,Diesel
+,Toyota Fortuner,MG,2021,250000,68000,Petrol
+,Tata Nexon,MG,2001,280000,52000,Petrol
+,Ford Figo Aspire,Kia,2008,1985000,6000,Petrol
+,MG Hector,Maruti,2012,120000,24000,Diesel
+,Renault Triber,Tata,2004,2060000,50000,Diesel
+,Jeep Compass,Tata,2000,190000,110000,Diesel
+,Jeep Compass,Jeep,2022,1075000,13000,Petrol
+,Mahindra XUV300,Volkswagen,2002,1710000,134000,Diesel
+,Hyundai Venue,Volkswagen,2005,340000,23000,Petrol
+,Hyundai Venue,MG,2008,1870000,39000,Diesel
+,Nissan X-Trail,Hyundai,2016,2470000,33000,Petrol
+,Volkswagen Tiguan,Tata,2000,890000,24000,Diesel
+,Ford Figo Aspire,Renault,2019,150000,137000,Diesel
+,Toyota Yaris,Ford,2016,1195000,75000,Petrol
+,Ford Figo Aspire,Honda,2007,970000,123000,Petrol
+,Honda Jazz,Honda,2021,385000,127000,Diesel
+,Tata Hexa,Kia,2013,120000,124000,Diesel
+,MG Hector,Skoda,2000,1025000,115000,Petrol
+,Toyota Yaris,Nissan,2011,110000,88000,Petrol
+,Renault Triber,Volkswagen,2013,1235000,112000,Petrol
+,Skoda Octavia,Jeep,2018,300000,101000,Petrol
+,Volkswagen Jetta,Mahindra,2019,1460000,71000,Diesel
+,MG Hector,Nissan,2011,355000,97000,Petrol
+,Kia Seltos,Renault,2016,1055000,22000,Diesel
+,Maruti Suzuki Dzire,Maruti,2010,1265000,69000,Diesel
+,Volkswagen Jetta,Ford,2002,820000,28000,Petrol
+,Mahindra Thar,Maruti,2014,965000,119000,Petrol
+,Toyota Fortuner,Volkswagen,2014,455000,58000,Diesel
+,Maruti Suzuki Baleno,Kia,2010,1455000,132000,Petrol
+,Honda Civic,MG,2010,920000,67000,Petrol
+,Hyundai Tucson,Kia,2012,720000,34000,Petrol
+,Skoda Octavia,Nissan,2002,1920000,139000,Petrol
+,Hyundai Verna,Maruti,2000,2150000,60000,Petrol
+,Toyota Yaris,Ford,2002,2430000,85000,Petrol
+,MG Hector,Mahindra,2013,200000,101000,Diesel
+,MG Hector,Volkswagen,2012,2370000,74000,Diesel
+,Toyota Yaris,MG,2009,2405000,118000,Petrol
+,Skoda Octavia,Skoda,2011,705000,57000,Petrol
+,Mahindra XUV300,Nissan,2013,895000,5000,Petrol
+,Honda Civic,Honda,2010,415000,74000,Petrol
+,Ford Figo Aspire,Kia,2019,395000,47000,Diesel
+,MG Hector,Kia,2017,1640000,96000,Diesel
+,Hyundai Venue,Hyundai,2008,930000,65000,Petrol
+,Toyota Yaris,Renault,2008,490000,64000,Petrol
+,Hyundai Tucson,Honda,2018,580000,49000,Petrol
+,Ford Endeavour,Volkswagen,2017,640000,109000,Diesel
+,Kia Seltos,Jeep,2008,1295000,44000,Diesel
+,Toyota Fortuner,Mahindra,2011,2185000,39000,Petrol
+,Mahindra XUV300,Toyota,2016,1560000,97000,Diesel
+,Toyota Yaris,Honda,2014,1145000,41000,Diesel
+,Honda Civic,Hyundai,2018,480000,138000,Petrol
+,Mahindra XUV300,Honda,2021,1175000,17000,Petrol
+,Kia Carnival,Hyundai,2008,815000,30000,Diesel
+,Volkswagen Tiguan,Toyota,2019,1535000,108000,Diesel
+,Nissan X-Trail,Kia,2017,95000,58000,Petrol
+,Hyundai Creta,Renault,2005,1245000,118000,Petrol
+,Hyundai Creta,Renault,2006,710000,52000,Petrol
+,MG Hector,Kia,2012,435000,46000,Diesel
+,Toyota Yaris,Toyota,2000,375000,97000,Petrol
+,Toyota Yaris,Skoda,2001,1430000,119000,Petrol
+,Mahindra Thar,Ford,2005,2380000,22000,Petrol
+,Hyundai Verna,Toyota,2020,850000,20000,Diesel
+,Mahindra XUV300,Toyota,2002,1715000,9000,Diesel
+,Volkswagen Tiguan,Ford,2021,685000,54000,Diesel
+,Mahindra Thar,Hyundai,2020,2110000,9000,Petrol
+,Toyota Fortuner,Honda,2011,2470000,140000,Diesel
+,Hyundai Tucson,Renault,2002,1140000,91000,Petrol
+,Honda Civic,Mahindra,2021,1160000,140000,Petrol
+,MG Hector,Mahindra,2015,1110000,28000,Diesel
+,Toyota Corolla,MG,2022,2330000,8000,Diesel
+,Mahindra Thar,Ford,2009,2115000,4000,Diesel
+,Hyundai Venue,Tata,2009,260000,81000,Diesel
+,Hyundai Verna,Renault,2015,2440000,136000,Petrol
+,Maruti Suzuki Dzire,Toyota,2010,1915000,130000,Petrol
+,Renault Triber,Honda,2016,1550000,118000,Diesel
+,Maruti Suzuki Dzire,Honda,2004,1635000,89000,Diesel
+,Toyota Yaris,Renault,2019,1365000,25000,Diesel
+,Renault Triber,Hyundai,2014,95000,122000,Petrol
+,Tata Nexon,Ford,2019,285000,104000,Petrol
+,Tata Nexon,Ford,2004,825000,78000,Petrol
+,Hyundai Tucson,Tata,2014,865000,59000,Petrol
+,Jeep Compass,Honda,2006,2290000,137000,Diesel
+,Hyundai Creta,Kia,2015,1990000,143000,Petrol
+,Toyota Corolla,Nissan,2016,80000,21000,Petrol
+,Renault Captur,MG,2012,2470000,79000,Petrol
+,Hyundai Creta,Toyota,2001,535000,73000,Diesel
+,Renault Triber,Toyota,2000,1670000,2000,Petrol
+,MG Hector,Maruti,2018,725000,130000,Diesel
+,Kia Carnival,Renault,2017,2405000,70000,Petrol
+,Mahindra XUV300,Maruti,2004,900000,140000,Petrol
+,Renault Captur,Hyundai,2020,2235000,29000,Diesel
+,Kia Seltos,Nissan,2009,2175000,18000,Petrol
+,Toyota Yaris,Maruti,2017,1345000,24000,Petrol
+,Hyundai Venue,MG,2021,865000,138000,Petrol
+,Kia Carnival,MG,2019,1325000,46000,Petrol
+,Renault Captur,Volkswagen,2017,770000,24000,Diesel
+,Kia Carnival,Mahindra,2017,2305000,21000,Petrol
+,Hyundai Creta,Honda,2015,1845000,36000,Petrol
+,Ford Figo Aspire,Toyota,2015,2075000,141000,Petrol
+,Honda Civic,Renault,2006,1660000,42000,Petrol
+,Hyundai Creta,Tata,2018,650000,6000,Petrol
+,Toyota Corolla,Maruti,2004,995000,83000,Petrol
+,Renault Captur,Jeep,2021,1715000,114000,Diesel
+,Maruti Suzuki Baleno,Kia,2016,2475000,69000,Diesel
+,MG Hector,Jeep,2012,1355000,133000,Petrol
+,Mahindra XUV300,Kia,2001,1630000,13000,Petrol
+,Mahindra XUV300,Kia,2004,1985000,100000,Petrol
+,Toyota Fortuner,Skoda,2012,790000,22000,Petrol
+,Volkswagen Tiguan,Kia,2001,1035000,48000,Diesel
+,Toyota Yaris,Volkswagen,2008,305000,89000,Petrol
+,Kia Carnival,MG,2013,1025000,146000,Petrol
+,Mahindra Thar,Jeep,2012,840000,64000,Diesel
+,Ford Figo Aspire,Renault,2012,2445000,120000,Petrol
+,Hyundai Tucson,Volkswagen,2013,2400000,43000,Petrol
+,Hyundai Tucson,Hyundai,2011,390000,59000,Diesel
+,Toyota Corolla,Maruti,2002,1900000,4000,Petrol
+,Toyota Fortuner,Tata,2005,635000,126000,Diesel
+,Renault Captur,Kia,2002,700000,18000,Diesel
+,Maruti Suzuki Dzire,Volkswagen,2018,2330000,55000,Petrol
+,Renault Captur,Hyundai,2016,1430000,88000,Petrol
+,Honda Jazz,Maruti,2006,260000,11000,Petrol
+,Volkswagen Jetta,Hyundai,2021,625000,90000,Petrol
+,Renault Triber,Volkswagen,2016,2420000,72000,Diesel
+,Ford Figo Aspire,Tata,2007,1250000,94000,Diesel
+,Hyundai Tucson,Maruti,2005,2365000,46000,Diesel
+,Kia Seltos,Toyota,2021,1860000,98000,Diesel
+,Hyundai Verna,Jeep,2018,1580000,103000,Petrol
+,Hyundai Venue,Ford,2010,1300000,137000,Petrol
+,MG Hector,Toyota,2022,1515000,137000,Diesel
+,Honda Jazz,Toyota,2016,2005000,123000,Diesel
+,Hyundai Verna,Tata,2017,955000,130000,Diesel
+,Kia Seltos,Skoda,2012,2080000,108000,Petrol
+,Nissan X-Trail,Jeep,2011,2490000,52000,Diesel
+,Toyota Fortuner,Jeep,2011,2210000,62000,Petrol
+,Volkswagen Tiguan,Hyundai,2000,485000,84000,Diesel
+,Ford Figo Aspire,Tata,2018,340000,31000,Diesel
+,Toyota Fortuner,Mahindra,2008,945000,58000,Diesel
+,Toyota Corolla,Jeep,2004,55000,95000,Diesel
+,Maruti Suzuki Baleno,Mahindra,2014,1915000,77000,Petrol
+,Renault Triber,Volkswagen,2013,895000,142000,Diesel
+,MG Hector,Skoda,2006,1170000,49000,Diesel
+,Hyundai Verna,Toyota,2006,1655000,55000,Petrol
+,Hyundai Venue,Nissan,2000,460000,121000,Petrol
+,Toyota Corolla,Tata,2008,1655000,100000,Petrol
+,Toyota Corolla,Honda,2020,2135000,26000,Petrol
+,Tata Nexon,Renault,2005,880000,96000,Diesel
+,Honda Jazz,Jeep,2017,1090000,55000,Diesel
+,Ford Endeavour,Renault,2017,605000,13000,Petrol
+,Kia Carnival,Honda,2010,920000,90000,Petrol
+,Renault Triber,MG,2010,205000,2000,Diesel
+,Kia Carnival,MG,2007,2235000,147000,Diesel
+,Renault Captur,Nissan,2005,750000,133000,Petrol
+,Honda Jazz,Renault,2018,1445000,17000,Diesel
+,MG Hector,Nissan,2022,2000000,132000,Petrol
+,Toyota Fortuner,Renault,2022,2015000,140000,Petrol
+,Skoda Octavia,Maruti,2021,2160000,118000,Petrol
+,Maruti Suzuki Dzire,Mahindra,2007,2130000,51000,Diesel
+,Ford Figo Aspire,Toyota,2005,555000,105000,Petrol
+,Kia Carnival,Jeep,2005,1100000,13000,Diesel
+,Jeep Compass,Renault,2005,760000,35000,Petrol
+,Nissan X-Trail,Toyota,2002,2275000,19000,Petrol
+,Tata Hexa,Tata,2020,2340000,56000,Petrol
+,Renault Triber,Ford,2012,1130000,35000,Diesel
+,Jeep Compass,Maruti,2021,1395000,72000,Petrol
+,Jeep Compass,Tata,2021,2180000,40000,Diesel
+,Tata Nexon,Volkswagen,2004,2050000,68000,Petrol
+,Honda Jazz,Honda,2016,1890000,118000,Diesel
+,Toyota Corolla,Kia,2000,1875000,24000,Diesel
+,Mahindra XUV300,Jeep,2012,2490000,4000,Petrol
+,Hyundai Venue,MG,2006,845000,50000,Petrol
+,Nissan X-Trail,Honda,2003,2130000,34000,Diesel
+,Skoda Octavia,Skoda,2012,2290000,43000,Petrol
+,Hyundai Tucson,Mahindra,2021,575000,74000,Diesel
+,Jeep Compass,Ford,2006,1675000,136000,Petrol
+,Maruti Suzuki Baleno,Tata,2013,1535000,34000,Petrol
+,Hyundai Creta,Hyundai,2010,1015000,23000,Petrol
+,Hyundai Verna,Volkswagen,2011,1060000,99000,Petrol
+,Toyota Yaris,Hyundai,2017,1375000,124000,Petrol
+,Skoda Octavia,Ford,2009,1880000,127000,Diesel
+,Ford Figo Aspire,Jeep,2020,2245000,66000,Petrol
+,Ford Figo Aspire,Renault,2021,1990000,140000,Diesel
+,Honda Civic,Honda,2000,1350000,9000,Petrol
+,Kia Seltos,Ford,2005,1940000,115000,Diesel
+,Jeep Compass,Hyundai,2002,985000,16000,Petrol
+,Honda Civic,Renault,2016,2470000,32000,Petrol
+,Nissan X-Trail,Hyundai,2019,820000,115000,Petrol
+,Honda Jazz,Tata,2017,1975000,8000,Petrol
+,Hyundai Tucson,Hyundai,2012,1990000,58000,Petrol
+,Tata Nexon,Skoda,2012,1315000,71000,Diesel
+,Hyundai Venue,Ford,2009,2415000,70000,Diesel
+,Kia Seltos,Skoda,2021,2180000,46000,Diesel
+,Mahindra XUV300,Tata,2004,2230000,35000,Diesel
+,Hyundai Tucson,Renault,2020,1475000,74000,Petrol
+,Hyundai Tucson,Kia,2006,760000,8000,Diesel
+,MG Hector,Maruti,2001,2465000,137000,Diesel
+,Volkswagen Jetta,Honda,2010,1525000,139000,Petrol
+,Hyundai Tucson,Skoda,2017,355000,58000,Diesel
+,Hyundai Venue,Hyundai,2016,1185000,135000,Diesel
+,Kia Seltos,MG,2002,1795000,54000,Diesel
+,Kia Seltos,Volkswagen,2008,115000,87000,Petrol
+,MG Hector,Toyota,2015,95000,10000,Diesel
+,Kia Seltos,Jeep,2019,470000,65000,Petrol
+,Honda Jazz,Mahindra,2014,105000,98000,Diesel
+,Skoda Octavia,Kia,2019,2285000,137000,Petrol
+,Kia Seltos,Renault,2010,2045000,93000,Petrol
+,Tata Hexa,Nissan,2010,150000,54000,Diesel
+,Renault Triber,Maruti,2016,940000,100000,Petrol
+,Mahindra XUV300,Tata,2014,575000,111000,Petrol
+,Mahindra XUV300,Jeep,2008,2295000,117000,Petrol
+,Volkswagen Tiguan,Toyota,2006,2380000,35000,Petrol
+,Toyota Fortuner,Nissan,2001,500000,147000,Diesel
+,Honda Civic,Renault,2004,665000,140000,Diesel
+,Renault Captur,MG,2005,70000,125000,Diesel
+,Honda Civic,Ford,2002,2035000,97000,Diesel
+,Toyota Corolla,Mahindra,2009,355000,38000,Petrol
+,Renault Captur,Tata,2009,2375000,139000,Diesel
+,Tata Nexon,Mahindra,2021,1485000,96000,Diesel
+,Tata Nexon,Renault,2002,1760000,78000,Petrol
+,Skoda Octavia,Ford,2003,100000,27000,Diesel
+,Toyota Corolla,Honda,2018,1815000,91000,Diesel
+,Renault Captur,Skoda,2002,1225000,111000,Petrol
+,Kia Seltos,Honda,2017,520000,118000,Diesel
+,Jeep Compass,Renault,2021,1370000,138000,Petrol
+,Tata Nexon,Honda,2018,1075000,139000,Petrol
+,Skoda Octavia,Renault,2021,1295000,8000,Diesel
+,MG Hector,Mahindra,2004,1205000,86000,Petrol
+,Ford Endeavour,Mahindra,2002,2050000,140000,Petrol
+,Hyundai Verna,Maruti,2002,2195000,43000,Diesel
+,Honda Civic,Renault,2007,1350000,86000,Diesel
+,Mahindra Thar,Volkswagen,2013,1185000,35000,Petrol
+,Maruti Suzuki Dzire,Tata,2005,1655000,124000,Diesel
+,Honda Jazz,Mahindra,2020,510000,16000,Petrol
+,Toyota Fortuner,Skoda,2022,2480000,114000,Diesel
+,Ford Figo Aspire,MG,2015,445000,85000,Diesel
+,Maruti Suzuki Dzire,Nissan,2008,490000,35000,Petrol
+,Jeep Compass,MG,2014,2085000,143000,Petrol
+,Renault Captur,Renault,2005,65000,10000,Diesel
+,MG Hector,Volkswagen,2001,980000,58000,Diesel
+,Hyundai Venue,MG,2002,1525000,90000,Diesel
+,Mahindra Thar,Kia,2009,690000,111000,Petrol
+,Maruti Suzuki Dzire,Kia,2011,2045000,133000,Diesel
+,Volkswagen Jetta,Kia,2010,2470000,15000,Petrol
+,Tata Hexa,Mahindra,2002,2470000,109000,Petrol
+,Renault Captur,Honda,2000,2200000,71000,Diesel
+,Skoda Octavia,MG,2021,2240000,40000,Diesel
+,Honda Jazz,Volkswagen,2007,1295000,118000,Diesel
+,Hyundai Creta,Tata,2013,1405000,72000,Diesel
+,Hyundai Verna,MG,2020,755000,10000,Diesel
+,Skoda Octavia,Maruti,2016,2460000,144000,Petrol
+,Toyota Corolla,Kia,2006,1860000,64000,Petrol
+,Renault Triber,Hyundai,2021,925000,97000,Diesel
+,Hyundai Tucson,Kia,2013,75000,26000,Diesel
+,Mahindra Thar,MG,2004,2375000,128000,Petrol
+,Renault Triber,Ford,2015,1360000,8000,Petrol
+,Hyundai Tucson,Kia,2008,680000,80000,Petrol
+,Ford Figo Aspire,Volkswagen,2008,2020000,17000,Diesel
+,Renault Triber,Nissan,2015,1150000,87000,Petrol
+,Toyota Yaris,Nissan,2010,2340000,43000,Petrol
+,Hyundai Creta,Honda,2013,2485000,65000,Petrol
+,Renault Captur,Skoda,2013,1440000,120000,Petrol
+,Maruti Suzuki Baleno,Ford,2002,305000,102000,Petrol
+,Volkswagen Jetta,Hyundai,2015,2345000,17000,Diesel
+,Hyundai Creta,Toyota,2020,1595000,101000,Petrol
+,Ford Figo Aspire,Mahindra,2014,640000,109000,Petrol
+,Honda Jazz,Toyota,2015,1975000,19000,Petrol
+,Nissan X-Trail,Jeep,2013,2055000,134000,Petrol
+,Hyundai Creta,Kia,2000,1490000,145000,Petrol
+,Mahindra XUV300,Tata,2019,2005000,72000,Diesel
+,Ford Figo Aspire,MG,2004,85000,119000,Diesel
+,Honda Civic,MG,2004,685000,149000,Petrol
+,Tata Hexa,Mahindra,2006,1515000,30000,Diesel
+,Renault Captur,Mahindra,2022,1050000,62000,Petrol
+,MG Hector,Honda,2013,830000,90000,Diesel
+,Toyota Yaris,Mahindra,2013,135000,103000,Diesel
+,Honda Civic,Hyundai,2016,2210000,135000,Diesel
+,Ford Endeavour,Hyundai,2010,970000,143000,Petrol
+,Hyundai Venue,Nissan,2000,1750000,67000,Diesel
+,Toyota Fortuner,Nissan,2020,695000,67000,Diesel
+,Hyundai Venue,Toyota,2009,1350000,89000,Petrol
+,Volkswagen Jetta,MG,2007,525000,53000,Petrol
+,Mahindra Thar,Renault,2015,435000,6000,Diesel
+,MG Hector,Tata,2016,925000,92000,Diesel
+,Skoda Octavia,Honda,2001,345000,92000,Petrol
+,Nissan X-Trail,Kia,2018,695000,132000,Petrol
+,Maruti Suzuki Dzire,Honda,2003,1455000,6000,Diesel
+,Maruti Suzuki Baleno,Skoda,2014,1435000,24000,Petrol
+,Honda Jazz,Jeep,2010,1940000,111000,Petrol
+,Honda Jazz,Skoda,2005,715000,123000,Diesel
+,Mahindra XUV300,Skoda,2003,1045000,136000,Diesel
+,Hyundai Venue,Honda,2019,870000,147000,Diesel
+,Hyundai Creta,Volkswagen,2012,475000,5000,Diesel
+,Maruti Suzuki Dzire,Kia,2017,2325000,144000,Diesel
+,Toyota Yaris,Tata,2014,560000,35000,Petrol
+,Renault Triber,Hyundai,2019,2465000,38000,Petrol
+,Toyota Fortuner,Hyundai,2016,1910000,94000,Diesel
+,Volkswagen Tiguan,Ford,2005,1390000,77000,Diesel
+,Hyundai Verna,Nissan,2004,675000,38000,Petrol
+,Hyundai Verna,MG,2007,65000,18000,Diesel
+,Renault Triber,Honda,2006,1730000,61000,Petrol
+,Hyundai Verna,Kia,2006,275000,31000,Diesel
+,Volkswagen Tiguan,Mahindra,2020,1680000,24000,Petrol
+,Toyota Corolla,Jeep,2005,845000,137000,Diesel
+,Mahindra XUV300,MG,2005,2035000,149000,Petrol
+,Mahindra XUV300,Hyundai,2012,920000,89000,Petrol
+,Nissan X-Trail,Toyota,2000,905000,102000,Petrol
+,Volkswagen Tiguan,Skoda,2007,805000,61000,Petrol
+,Honda Jazz,Jeep,2007,875000,17000,Petrol
+,MG Hector,Toyota,2000,2175000,82000,Diesel
+,MG Hector,Nissan,2005,2035000,51000,Petrol
+,Ford Figo Aspire,Volkswagen,2018,2255000,77000,Diesel
+,Tata Hexa,Tata,2001,2430000,64000,Diesel
+,Ford Figo Aspire,Jeep,2001,2070000,8000,Diesel
+,Honda Civic,Nissan,2020,475000,71000,Petrol
+,Renault Triber,Toyota,2000,1105000,118000,Petrol
+,Mahindra Thar,Mahindra,2018,830000,78000,Petrol
+,Hyundai Verna,Toyota,2003,1825000,71000,Diesel
+,Tata Hexa,Kia,2005,2460000,49000,Petrol
+,Kia Carnival,Nissan,2021,2160000,95000,Diesel
+,Renault Captur,Maruti,2012,2415000,33000,Petrol
+,Honda Civic,MG,2016,540000,100000,Diesel
+,Honda Jazz,Hyundai,2017,95000,71000,Petrol
+,Jeep Compass,Skoda,2015,2485000,146000,Petrol
+,Hyundai Verna,Hyundai,2012,765000,129000,Diesel
+,Toyota Yaris,Kia,2016,605000,21000,Diesel
+,Honda Civic,Ford,2008,505000,61000,Petrol
+,Volkswagen Tiguan,Maruti,2004,2035000,40000,Diesel
+,Honda Civic,MG,2015,1775000,83000,Petrol
+,Toyota Corolla,Mahindra,2007,690000,48000,Petrol
+,Tata Hexa,Kia,2007,1445000,10000,Diesel
+,Volkswagen Tiguan,Maruti,2002,115000,79000,Petrol
+,Toyota Corolla,Honda,2016,600000,73000,Diesel
+,Maruti Suzuki Dzire,Hyundai,2019,855000,16000,Diesel
+,Ford Figo Aspire,Jeep,2005,1305000,11000,Petrol
+,Hyundai Creta,Volkswagen,2007,1915000,65000,Diesel
+,Mahindra Thar,Skoda,2008,1335000,53000,Diesel
+,Maruti Suzuki Dzire,Tata,2011,325000,22000,Petrol
+,Mahindra Thar,Tata,2005,1965000,73000,Petrol
+,Hyundai Tucson,Jeep,2018,2185000,95000,Petrol
+,Jeep Compass,Volkswagen,2007,865000,85000,Diesel
+,Skoda Octavia,Skoda,2010,2250000,28000,Petrol
+,Honda Civic,Tata,2000,1560000,116000,Diesel

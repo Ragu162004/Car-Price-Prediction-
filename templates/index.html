@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Price Predictor</title>
+    <style> 
+        body { 
+            font-family: 'Arial', sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        h1 {
+            text-align: center;
+            color: #ffffff;
+            font-size: 2.8rem;
+            margin-bottom: 30px;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+
+        form {
+            background-color: #1e1e1e;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.6);
+            width: 450px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        form:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 12px 50px rgba(0, 0, 0, 0.7);
+        }
+
+        label {
+            font-size: 1.1rem;
+            color: #e0e0e0;
+            display: block;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        select, input[type="number"] {
+            width: 100%;
+            padding: 12px;
+            font-size: 1.1rem;
+            background-color: #333;
+            color: #ffffff;
+            border: 1px solid #555;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-sizing: border-box;
+            transition: border-color 0.3s ease, background-color 0.3s ease;
+        }
+
+        select:hover, input[type="number"]:hover, 
+        select:focus, input[type="number"]:focus {
+            border-color: #bb86fc;
+            background-color: #444;
+            outline: none;
+        }
+
+        button {
+            width: 100%;
+            padding: 14px;
+            font-size: 1.2rem;
+            background-color: #bb86fc;
+            color: #000;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+            font-weight: bold;
+        }
+
+        button:hover {
+            background-color: #cf9fff;
+            transform: translateY(-3px);
+        }
+
+        button:active {
+            background-color: #9e67e9;
+            transform: translateY(1px);
+        }
+
+        /* Result container styling */
+        #result {
+            margin-top: 30px;
+            font-size: 1.8rem;
+            font-weight: bold;
+            color: #bb86fc;
+            text-align: center;
+        }
+
+        /* Smooth transition for input fields and button */
+        input, select {
+            transition: all 0.3s ease-in-out;
+        }
+    </style>
+</head> 
+<body> 
+    <h1>Car Price Prediction</h1> 
+    <form id="predictionForm">
+        <label for="company">Select Company:</label>
+        <select name="company" id="company">
+            {% for company in companies %}
+                <option value="{{ company }}">{{ company }}</option>
+            {% endfor %}
+        </select>
+        <br>
+
+        <label for="car">Select Car Model:</label>
+        <select name="car" id="car">
+            {% for model in car_model %}
+                <option value="{{ model }}">{{ model }}</option>
+            {% endfor %}
+        </select>
+        <br>
+
+        <label for="year">Select Year:</label>
+        <select name="year" id="year">
+            {% for yr in year %}
+                <option value="{{ yr }}">{{ yr }}</option>
+            {% endfor %}
+        </select>
+        <br>
+
+        <label for="fuel">Select Fuel Type:</label>
+        <select name="fuel" id="fuel">
+            {% for fuel in fuel_type %}
+                <option value="{{ fuel }}">{{ fuel }}</option>
+            {% endfor %}
+        </select>
+        <br>
+
+        <label for="kms">KMs Driven:</label>
+        <input type="number" name="kms" id="kms" required>
+        <br>
+
+        <label for="model">Select Prediction Model:</label>
+        <select name="model" id="model">
+            <option value="Random Forest">Random Forest</option>
+            <option value="Linear Regression">Linear Regression</option>
+            <option value="Decision Tree">Decision Tree</option>
+        </select>
+        <br>
+
+        <button type="submit">Predict Price</button>
+    </form>
+
+    <!-- Div to display the prediction result -->
+    <div id="result"></div>
+
+    <script>
+        // JavaScript to handle form submission and update result without refreshing the page
+        document.getElementById('predictionForm').addEventListener('submit', function(event) {
+            event.preventDefault(); // Prevent form from submitting the traditional way
+
+            // Gather form data
+            const formData = new FormData(this);
+
+            // Send an AJAX request
+            fetch('/final_data', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.text())
+            .then(data => {
+                // Display the result in the #result div
+                document.getElementById('result').innerText = 'Predicted Price: ₹' + data;
+            })
+            .catch(error => console.error('Error:', error));
+        });
+    </script>
+</body>
+</html>
