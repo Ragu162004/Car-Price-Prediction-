@@ -3,3 +3,4 @@ DecisionTreeModel.pkl
 LinearRegressionModel.pkl
 RandomForestModel.pkl
 /venv
+/env
